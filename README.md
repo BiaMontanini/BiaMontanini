@@ -1,10 +1,24 @@
 
--   👋 Hi, I’m @BiaMontanini
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-    </div>
+# Olá, eu sou a Beatriz! 👋
+
+Estou aprendendo a programar
+
+## 🚀 Sobre mim
+Estudante de Desenvolvimento de Sotfware Multiplataforma na Fatec Jacareí. 
+
+
+## 🛠 Estou aprendendo
+Javascript, HTML, CSS
+
+
+## Contribui para estes projetos
+
+-
+
+
+## Estes são meus projetos de maior destaque
+
+-
     
 ##
 
