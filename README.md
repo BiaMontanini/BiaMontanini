@@ -2,11 +2,12 @@
 # Olá, eu sou a Beatriz! 👋
 
 Estou aprendendo a programar
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiaMontanini&show_icons=true&theme=dracula)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BiaMontanini&theme=dracula&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-    
+##
+<div align="left"> 
+    <a href="https://github.com/biancalsc">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=biamontanini&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biamontanini&theme=dracula&show_icons=true&hide_border=true&layout=donut-vertical"/>
+   </div>
 
 ## 🚀 Sobre mim
 Estudante de Desenvolvimento de Sotfware Multiplataforma na Fatec Jacareí. 
