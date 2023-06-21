@@ -5,8 +5,8 @@ Estou aprendendo a programar
 ##
 <div align="left"> 
     <a href="https://github.com/biamontanini">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=biamontanini&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biamontanini&theme=dracula&show_icons=true&hide_border=true&layout=donut-vertical"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=biamontanini&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biamontanini&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
    </div>
 
 ## 🚀 Sobre mim
