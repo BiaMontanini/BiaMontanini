@@ -1,7 +1,7 @@
 
 # Olá, eu sou a Beatriz! 👋
 
-Estou aprendendo a programar
+Desenvolvedora FrontEnd a caminho do Fullstack
 ##
 <div align="left"> 
     <a href="https://github.com/biamontanini">
