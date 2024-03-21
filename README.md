@@ -18,7 +18,8 @@ Javascript, HTML, CSS
 
 
 ## Contribui para estes projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=terrasoftwarehouse&repo=Projeto-Treinamento-Scrum)](https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=terrasoftwarehouse&repo=Projeto-Treinamento-Scrum&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=terrasoftwarehouse&repo=Projeto-Treinamento-Scrum&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum)
 
 ## Estes são meus projetos de maior destaque
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=biamontanini&repo=primeira-pagina-com-css)](https://github.com/BiaMontanini/primeira-pagina-com-css)
