@@ -3,17 +3,17 @@
 
 Estagiaria em Desenvolvimento de Software
 ##
-<div align="left"> 
+<div align="center"> 
     <a href="https://github.com/biamontanini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biamontanini&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biamontanini&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
    </div>
 
-## Sobre mim
+## Sobre mim 
 Estudante de Desenvolvimento de Sotfware Multiplataforma na Fatec Jacareí. 
 
 
-## Tenho Conhecimento em:
+## Linguagens e Frameworks com qual trabalho:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
