@@ -1,7 +1,7 @@
 
 # Olá, eu sou a Beatriz! 👋
 
-Desenvolvedora FrontEnd a caminho do Fullstack
+Estagiaria em Desenvolvimento de Software
 ##
 <div align="left"> 
     <a href="https://github.com/biamontanini">
@@ -23,8 +23,9 @@ Estudante de Desenvolvimento de Sotfware Multiplataforma na Fatec Jacareí.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-## Contribui para estes projetos
+## Veja os projetos ao qual participei...
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=terrasoftwarehouse&repo=Projeto-Treinamento-Scrum&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=projetoPDali&repo=projetoPDali&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/projetoPDali/projetoPDali)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=TerraGeoManager&repo=TerraGeoManager&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/TerraGeoManager/TerraGeoManager)
 
 
