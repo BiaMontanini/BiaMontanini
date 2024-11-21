@@ -25,17 +25,27 @@ Estudante de Desenvolvimento de Sotfware Multiplataforma na Fatec Jacareí.
 
 ## Veja os projetos ao qual participei...
 <table>
-  <tr>
+     <tr>
     <td>
-      <a href="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=terrasoftwarehouse&repo=Projeto-Treinamento-Scrum&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Projeto-Treinamento-Scrum">
+      <a href="https://github.com/noctagroup/nutrilife">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=noctagroup&repo=nutrilife&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="NutriLife">
       </a>
     </td>
     <td>
-      <p><strong>Projeto Treinamento Scrum</strong>: Aplicação frontend estatica que ofece um curso sobre metodologia scrum de forma universalizada.</p>
+      <p><strong>Nutrilife</strong>: Aplicação de controle e acompanhamento calorico de forma interativa e dinamica com implementação de IOT para contagem de passos</p>
     </td>
   </tr>
-  <tr>
+   <tr>
+    <td>
+      <a href="https://github.com/TerraGeoManager/TerraGeoManager">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TerraGeoManager&repo=TerraGeoManager&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="TerraGeoManager">
+      </a>
+    </td>
+    <td>
+      <p><strong>TerraGeoManager</strong>: Esta Aplicação tem como objetivo ser uma interface visual e interativa para gerenciamento de equipes que fazem mapeamento geoespacial, gerando estatisticas sobre o desenvolvimento do projeto e aqueles que trabalham neles.</p>
+    </td>
+  </tr>
+     <tr>
     <td>
       <a href="https://github.com/projetoPDali/projetoPDali">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=projetoPDali&repo=projetoPDali&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="projetoPDali">
@@ -45,14 +55,14 @@ Estudante de Desenvolvimento de Sotfware Multiplataforma na Fatec Jacareí.
       <p><strong>Projeto PDali</strong>: Aplicação em Typescript e React de aluguel de bicicleta, onde é possivel cadastrar, visualizar e alugar bicicletas.</p>
     </td>
   </tr>
-  <tr>
+      <tr>
     <td>
-      <a href="https://github.com/TerraGeoManager/TerraGeoManager">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=TerraGeoManager&repo=TerraGeoManager&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="TerraGeoManager">
+      <a href="https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=terrasoftwarehouse&repo=Projeto-Treinamento-Scrum&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Projeto-Treinamento-Scrum">
       </a>
     </td>
     <td>
-      <p><strong>TerraGeoManager</strong>: Esta Aplicação tem como objetivo ser uma interface visual e interativa para gerenciamento de equipes que fazem mapeamento geoespacial, gerando estatisticas sobre o desenvolvimento do projeto e aqueles que trabalham neles.</p>
+      <p><strong>Projeto Treinamento Scrum</strong>: Aplicação frontend estatica que ofece um curso sobre metodologia scrum de forma universalizada.</p>
     </td>
   </tr>
 </table>
